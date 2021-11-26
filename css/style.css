@@ -1,6 +1,22 @@
-.navigation
-.header{
-display: flex;
-flex-direction: row;
-margin: 0 auto;
+body{
+
+
+}
+
+
+.link-for-navigation {
+    text-decoration: none;
+    color: #757575;
+}
+
+
+
+.webstudio :hover > a{
+color:  #2196F3;
+text-decoration: none;
+}
+.tell-for-buyer{
+    text-decoration: none;
+    color: #757575;
+
 }
