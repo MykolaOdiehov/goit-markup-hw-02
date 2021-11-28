@@ -8,7 +8,11 @@ color: #2196F3;
 text-decoration:none ;
 
 }
+.link-for-navigation:focus{
+    color: #2196F3;
+    text-decoration:none ;
 
+}
 .link-for-navigation {
     text-decoration: none;
     color: #757575;
