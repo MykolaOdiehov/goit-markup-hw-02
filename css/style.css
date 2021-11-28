@@ -33,11 +33,11 @@ flex-direction:row;
 
 }
 body{
-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-family: Roboto;
 color: #212121;
 }
 .button-for-buy{
-    background: #4197dd;
+    background: #2196F3;
     cursor: pointer;
     width: 200px;
     height: 50px; ;
@@ -46,7 +46,7 @@ color: #212121;
 }
 .button-for-buy:hover{
     color: #ffff    ;
-background: #2196F3;
+background: #188CE8;
 cursor: pointer;
 width: 200px;
 height: 50px; ;
@@ -63,14 +63,117 @@ border-radius:4px ;
     text-decoration:none ;
 }
 .information-text{
-font-size:14px;
-color: #757575;
-width:270px ;
-height: 50px;
-
+    width: 270px;
+    height: 75px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
 }
 .information{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+}
+.text-in-button-in-herov{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+}
+.number-one{
+    letter-spacing: 0.03em;
+    font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+
+}
+.work-in-protgect{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.03em;
+
+}
+.uor-comand{
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    
+
+}
+.footer-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+}
+.name-commando{
+font-family: Roboto;
+font-style: normal;
 font-weight: 500;
-
-
+font-size: 16px;
+line-height: 19px;
+}
+.information-comand{
+letter-spacing: 0.03em;
+color: #757575;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+}
+.button-fultor{
+    width: max-content;
+    height: 38px;
+}
+.button-fultor:focus{
+background: #188CE8;
+width: max-content;
+height: 38px;
+color: #ffff;
+}
+.button-fultor:hover{
+    background: #188CE8;
+    width: max-content;
+    height: 38px;
+ color: #ffff;
+    
+}
+.photo-buy{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.photo-buy-information{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
