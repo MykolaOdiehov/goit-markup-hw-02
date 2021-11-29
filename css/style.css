@@ -41,7 +41,7 @@ color: #212121;
     cursor: pointer;
     width: 200px;
     height: 50px; ;
-    border-radius:ff4px ;
+    border-radius:4px ;
     color: #ffff    
 }
 .button-for-buy:hover{
@@ -83,20 +83,21 @@ border-radius:4px ;
     
 }
 .text-in-button-in-herov{
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-}
-.number-one{
-    letter-spacing: 0.03em;
-    font-family: Raleway;
+font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 26px;
-line-height: 31px;
-
+font-size: 16px;
+line-height: 30px;
+}
+.number-one{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+    
+    
+    letter-spacing: 0.03em;
 }
 .work-in-protgect{
     font-family: Roboto;
