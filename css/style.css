@@ -1,7 +1,12 @@
 .tell-for-buyer{
     text-decoration: none;
     color: #757575;
-
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
 }
 .tell-for-buyer:hover{
 color: #2196F3;
@@ -16,7 +21,7 @@ text-decoration:none ;
 .link-for-navigation {
     text-decoration: none;
     color: #212121;
-     ;
+    font-family: Roboto;
 }
 .link-for-navigation:hover{
     color: #2196F3;
@@ -28,10 +33,7 @@ text-decoration:none ;
 color: #2196F3;
 text-decoration:none ;
 }
-main{
-flex-direction:row;
 
-}
 body{
 font-family: Roboto;
 color: #212121;
@@ -42,7 +44,9 @@ color: #212121;
     width: 200px;
     height: 50px; ;
     border-radius:4px ;
-    color: #ffff    
+    color: #ffff    ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
 }
 .button-for-buy:hover{
     color: #ffff    ;
@@ -83,6 +87,7 @@ border-radius:4px ;
     
 }
 .text-in-button-in-herov{
+
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -94,10 +99,7 @@ line-height: 30px;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
-    line-height: 31px;
-    
-    
-    letter-spacing: 0.03em;
+    line-height: 31px;    
 }
 .work-in-protgect{
     font-family: Roboto;
