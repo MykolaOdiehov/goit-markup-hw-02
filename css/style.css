@@ -7,6 +7,7 @@
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+
 }
 .tell-for-buyer:hover{
 color: #2196F3;
@@ -87,19 +88,19 @@ border-radius:4px ;
     
 }
 .text-in-button-in-herov{
-
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 30px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
 }
 .number-one{
     font-family: Raleway;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
-    line-height: 31px;    
+    line-height: 31px; 
 }
 .work-in-protgect{
     font-family: Roboto;
